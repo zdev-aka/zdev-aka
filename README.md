@@ -1,4 +1,5 @@
-# 💫 About Me:
+# MY INFO ✨:
+
 <div align="center"><br><br><!-- Header Animation --><br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&height=90&lines=Hi,+I'm+ZDEV;Developer+•+Next+•+Python;Welcome+to+my+GitHub" alt="Typing SVG" />
 <br><br><br><a href="https://github.com/zdev-aka"><br><img src="https://avatars.githubusercontent.com/u/250648824?s=400&u=057f5d2d9f7ab5d07cb4b49fc6af06beefbd9720&v=4" alt="zdev-aka" /><br></a><
