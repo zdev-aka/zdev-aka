@@ -1,5 +1,14 @@
 # 💫 About Me:
-<div align="center"><br><br><!-- Header Animation --><br><br><img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D35%26pause%3D1000%26color%3DFFFFFF%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHI%2BTHERE!,%2BI%27M%2BZDEV%3BFULLSTACK%2BDEVELOPER%3BFROM%2BVIETNAM%3BALWAYS%2BLEARNING%2BNEW%2BTHINGS" alt="Typing SVG" /><br><br><p align="center"><br><a href="https://github.com/zdev-aka"><br><img src="https://avatars.githubusercontent.com/u/250648824?s=400&u=057f5d2d9f7ab5d07cb4b49fc6af06beefbd9720&v=4" alt="zdev-aka" /><br></a><br></p><br><br>## ⚡ About Me<br><br>"Building modern web applications with a focus on performance and minimalist design."<br><br><p align="center"><br>🌱 Currently mastering: <b>Next.js • Tailwind CSS • React • Express</b><br><br><br><br><br>🔭 Working on: <b>Manim animations & Fullstack projects</b><br><br><br><br><br>📫 Reach me at: <a href="mailto:tranmanhtiendev@gmail.com"><b>tranmanhtiendev@gmail.com</b></a><br>
+<div align="center"><br><br><!-- Header Animation --><br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&height=90&lines=Hi,+I'm+ZDEV;Developer+•+Next+•+Python;Welcome+to+my+GitHub" alt="Typing SVG" />
+<br><br><br><a href="https://github.com/zdev-aka"><br><img src="https://avatars.githubusercontent.com/u/250648824?s=400&u=057f5d2d9f7ab5d07cb4b49fc6af06beefbd9720&v=4" alt="zdev-aka" /><br></a><
+
+</p><br>
+
+## ⚡ About Me<br>
+
+<br>"Building modern web applications with a focus on performance and minimalist design."
+<br><p align="center"><br>🌱 Currently mastering: <b>Next.js • Tailwind CSS • React • Express</b><br><br><br>🔭 Working on: <b>Manim animations & Fullstack projects</b><br><br><br>📫 Reach me at: <a href="mailto:tranmanhtiendev@gmail.com"><b>tranmanhtiendev@gmail.com</b></a><br>
 
 
 # 💻 Tech Stack:
