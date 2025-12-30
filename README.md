@@ -1,7 +1,7 @@
 # MY INFO ✨:
 
 <div align="center"><br><br><!-- Header Animation --><br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&height=90&lines=Hi,+I'm+ZDEV;Developer+•+Next+•+Python;Welcome+to+my+GitHub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFAB&center=true&vCenter=true&width=800&height=90&lines=Hi,+I'm+ZDEV;Developer+•+Typescript+•+Tailwind;Welcome+to+my+GitHub" alt="Typing SVG" />
 <br><br><br><a href="https://github.com/zdev-aka"><br><img src="https://avatars.githubusercontent.com/u/250648824?s=400&u=057f5d2d9f7ab5d07cb4b49fc6af06beefbd9720&v=4" alt="zdev-aka" /><br></a><
 
 </p><br>
@@ -29,6 +29,14 @@
 ![](https://github-contributor-stats.vercel.app/api?username=zdev-aka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+<div align="center">
+  <img  src="https://github.com/zdev-aka/contribution-cal-snake/blob/master/animation/snake.gif"
+       alt="snake" />
+</div>
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=zdev-aka&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
