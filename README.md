@@ -27,3 +27,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zdev-aka&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/zdev-aka/zdev-aka/blob/output/github-snake-dark.svg)
