@@ -27,16 +27,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=zdev-aka&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<div align="center">
-  <img  src="https://github.com/zdev-aka/contribution-cal-snake/blob/master/animation/snake.gif"
-       alt="snake" />
-</div>
-
----
-
-[![](https://visitcount.itsvg.in/api?id=zdev-aka&icon=4&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
